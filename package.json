@@ -1,7 +1,7 @@
 {
-  "name": "calculator",
+  "name": "miguel-malqui-calculator",
   "version": "1.0.0",
-  "description": "calculator",
+  "description": "calculator package",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
